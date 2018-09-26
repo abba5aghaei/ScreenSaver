@@ -1,2 +1,2 @@
 # ScreenSaver
-Java-swing project
+A basketball screen saver
